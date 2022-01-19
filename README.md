@@ -1,4 +1,4 @@
-# Vscode productivity theme
+# Vscode real men's theme
 
 ## Description
 This is a VSCode user setting file.
