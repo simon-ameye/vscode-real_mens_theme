@@ -7,5 +7,6 @@ This is a VSCode user setting file.
 - Remove useless
 - More space for editing
 - Efficient coloring
+- For people who really work
 
-![preview](preview.png)
+![preview](Preview.png)
