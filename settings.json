@@ -1,6 +1,9 @@
 {
+	//42 students
 	"42header.email": "sameye@student.42.fr",
 	"42header.username": "sameye",
+
+	//normal people
 	"editor.detectIndentation": false,
 	"editor.insertSpaces": false,
 	"editor.tabSize": 4,
@@ -8,12 +11,14 @@
 	"workbench.activityBar.visible": false,
 	"workbench.statusBar.visible": false,
 	"workbench.colorTheme": "Default High Contrast",
-	"window.zoomLevel": 0.5,
+	"window.zoomLevel": 0,
+	"editor.fontSize": 14,
 	"workbench.editor.tabSizing": "shrink",
 	"breadcrumbs.enabled" : false,
 	"workbench.editor.showTabs": true,
 	"editor.guides.indentation": true,
 	"workbench.colorCustomizations": {
+
 		"editor.background": "#000000",
 		"editorLineNumber.foreground": "#3f3f3f",
 		"sideBar.foreground": "#a3a3a3",
@@ -25,5 +30,6 @@
 		"tab.border": "#a3a3a3",
 		"editorIndentGuide.activeBackground": "#fd6500",
 		"editorIndentGuide.background": "#3f3f3f",
+		"editor.selectionBackground": "#949494",
 	}
 }
