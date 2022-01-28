@@ -4,6 +4,7 @@
 	"42header.username": "sameye",
 
 	//normal people
+	"workbench.editor.revealIfOpen": true,
 	"editor.detectIndentation": false,
 	"editor.insertSpaces": false,
 	"editor.tabSize": 4,
@@ -11,7 +12,7 @@
 	"workbench.activityBar.visible": false,
 	"workbench.statusBar.visible": false,
 	"workbench.colorTheme": "Visual Studio Dark - C++",
-	"window.zoomLevel": 0,
+	"window.zoomLevel": 1,
 	"editor.fontSize": 13,
 	"breadcrumbs.enabled" : false,
 	"editor.minimap.enabled": false,
