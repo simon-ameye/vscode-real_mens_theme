@@ -9,7 +9,7 @@
 	"editor.insertSpaces": false,
 	"editor.tabSize": 4,
 	"editor.renderWhitespace": "boundary",
-	"workbench.activityBar.visible": false,
+	"workbench.activityBar.visible": true,
 	"workbench.statusBar.visible": false,
 	"workbench.colorTheme": "Visual Studio Dark - C++",
 	"window.zoomLevel": 1,
