@@ -2,8 +2,9 @@
 	//42 students
 	"42header.email": "sameye@student.42.fr",
 	"42header.username": "sameye",
-
+	
 	//normal people
+	"files.autoSave": "afterDelay",
 	"workbench.editor.revealIfOpen": true,
 	"editor.detectIndentation": false,
 	"editor.insertSpaces": false,
