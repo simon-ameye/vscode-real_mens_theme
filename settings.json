@@ -32,6 +32,13 @@
 		"editorIndentGuide.background": "#242424",
 		"editor.selectionBackground": "#00566b",
 		"editor.lineHighlightBackground": "#2c2c2c"
+		"statusBar.background": "#000000",
+		"statusBar.noFolderBackground" : "#000000",
+		"statusBar.debuggingBackground": "#000000",
+		"statusBar.foreground": "#573826",
+		"statusBarItem.remoteBackground": "#000000",
+		"statusBarItem.remoteForeground": "#573826",
+		"activityBar.background": "#000000"
 	},
 	"editor.tokenColorCustomizations":
 	{
